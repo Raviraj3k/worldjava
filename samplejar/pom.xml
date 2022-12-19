@@ -43,6 +43,9 @@
                                 </transformer>
                             </transformers>
                         </configuration>
+                        <goals>
+                        <goal>java</goal>
+                        </goals>
                     </execution>
                 </executions>
             </plugin>
