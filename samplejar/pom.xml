@@ -31,7 +31,7 @@
                 <version>2.1</version>
                 <executions>
                     <execution>
-                        <phase>package</phase>
+                        <phase>deploy</phase>
                         <goals>
                             <goal>java</goal>
                         </goals>
