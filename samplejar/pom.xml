@@ -33,7 +33,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>shade</goal>
+                            <goal>java</goal>
                         </goals>
                         <configuration>
                             <transformers>
@@ -43,9 +43,7 @@
                                 </transformer>
                             </transformers>
                         </configuration>
-                        <goals>
-                        <goal>java</goal>
-                        </goals>
+           
                     </execution>
                 </executions>
             </plugin>
