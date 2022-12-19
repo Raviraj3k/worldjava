@@ -32,9 +32,6 @@
                 <executions>
                     <execution>
                         <phase>generate-sources</phase>
-                        <goals>
-                            <goal>java</goal>
-                        </goals>
                         <configuration>
                             <transformers>
                                 <transformer
